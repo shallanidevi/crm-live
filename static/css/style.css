@@ -124,9 +124,6 @@ button {
   text-transform: uppercase;
   overflow: hidden;
 }
-button:hover {
-    background-color: #15202b;
-  }
 .row {
   display: flex;
   flex-direction: row;
@@ -248,7 +245,7 @@ button:hover {
   background-color: var(--previewShadow);
   max-width: 230px;
   height: 370px;
-  padding-left: 30px;
+  padding-left: 23px;
   padding-top: 30px;
 }
 
@@ -257,7 +254,7 @@ button:hover {
   height: 370px;
   border: 1.5px solid #17a2b8;
   background-color: var(--previewBg);
-  padding: 30px;
+  padding: 23px;
   position: relative;
 }
 .corner {
