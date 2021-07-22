@@ -37,7 +37,10 @@ strong {
 }
 span {
   font-family: 'helvetica', sans-serif;
-   color: #1782b8;
+}
+span.wrap {
+  font-size: 20px;
+  color: #1782b8;
 }
 li,
 input,
@@ -80,10 +83,7 @@ h1:hover {
   text-shadow: 0 0 15px lime;
   transition: all 0.5s ease;
 }
-span.wrap {
-  font-size: 40px;
-  color: #1782b8;
-}
+
 
 h3 {
   font-size: 32px;
