@@ -53,6 +53,7 @@ p{
   font-size: 26px;
   color: #fff;
   font-family: 'montserrat';
+  
 }
 a {
   font-size: 20px;
@@ -118,13 +119,15 @@ button {
   position: relative;
   outline: none;
   border: none;
-  margin: 1rem;
+  margin: 10px;
   box-sizing: content-box;
   border: 1px #1782b8 solid;
   text-transform: uppercase;
   overflow: hidden;
 }
-
+button:hover {
+    background-color: #15202b;
+  }
 .row {
   display: flex;
   flex-direction: row;
