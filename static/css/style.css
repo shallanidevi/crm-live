@@ -245,7 +245,7 @@ button {
   background-color: var(--previewShadow);
   max-width: 232px;
   height: 372px;
-  padding-left: 18px;
+  padding-left: 15px;
   padding-top: 30px;
 }
 
@@ -254,7 +254,7 @@ button {
   height: 370px;
   border: 1.5px solid #17a2b8;
   background-color: var(--previewBg);
-  padding: 20px;
+  padding: 18px;
   position: relative;
 }
 .corner {
