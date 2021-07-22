@@ -39,7 +39,7 @@ span {
   font-family: 'helvetica', sans-serif;
 }
 span.wrap {
-  font-size: 30px;
+  font-size: 28px;
   color: #1782b8;
 }
 li,
@@ -50,7 +50,7 @@ textarea {
   font-size: 20px;
 }
 p{
-  font-size: 40px;
+  font-size: 26px;
   color: #fff;
   font-family: 'montserrat';
 }
