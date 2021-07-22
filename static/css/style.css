@@ -49,8 +49,8 @@ textarea {
   font-family: 'helvetica', sans-serif;
   font-size: 20px;
 }
-
-p {
+p{
+  font-size: 40px;
   color: #fff;
   font-family: 'montserrat';
 }
