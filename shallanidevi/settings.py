@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-+hu$nza54px)w^+0xn4b#cfzr$9dw$kn#-5+l!4t-!-!-nf*tf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['shallanidevi.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['xyz.herokuapp.com','127.0.0.1']
 
 
 # Application definition
@@ -138,8 +138,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = "shallani2020@gmail.com"
-EMAIL_HOST_PASSWORD = 'mclaxvkispasycjr'
+EMAIL_HOST_USER = "xyz@gmail.com"
+EMAIL_HOST_PASSWORD = 'xyzxyzxyzxyz'
 
 
 # Default primary key field type
